@@ -1,0 +1,222 @@
+295945893: {Store: 1683, T ID: 286189, Card: 6175 ||, Store: 1683, T ID: 285477, Card: 6008 ||, Store: 1683, T ID: 113888, Card: 0530 ||, Store: 1683, T ID: 113889, Card: 7117 ||, Store: 1683, T ID: 286172, Card: 6575 ||, Store: 1683, T ID: 286207, Card: 9386 ||}
+297828059: {Store: 2446, T ID: 241883, Card: 4803 ||, Store: 2446, T ID: 241890, Card: 5066 ||, Store: 2446, T ID: 126779, Card: 3335 ||}
+298145917: {Store: 3316, T ID: 249198, Card: 7166 ||, Store: 3316, T ID: 249513, Card: 8943 ||, Store: 3316, T ID: 249221, Card: 8016 ||}
+295965054: {Store: 1901, T ID: 127486, Card: 2772 ||, Store: 1901, T ID: 214762, Card: 0751 ||, Store: 1901, T ID: 214752, Card: 2395 ||, Store: 1901, T ID: 127024, Card: 0956 ||, Store: 1901, T ID: 127276, Card: 1670 ||, Store: 1901, T ID: 215403, Card: 8100 ||, Store: 1901, T ID: 128464, Card: 2382 ||, Store: 1901, T ID: 127031, Card: 5800 ||, Store: 1901, T ID: 128461, Card: 5696 ||}
+297657647: {Store: 854, T ID: 263973, Card: 1474 ||, Store: 854, T ID: 263988, Card: 2283 ||, Store: 854, T ID: 181120, Card: 2168 ||}
+299680907: {Store: 2062, T ID: 128397, Card: 7866 ||, Store: 1750, T ID: 249427, Card: 7874 ||, Store: 2062, T ID: 128537, Card: 9009 ||}
+287641819: {Store: 3367, T ID: 224080, Card: 3849 ||, Store: 3367, T ID: 127750, Card: 5090 ||, Store: 3367, T ID: 223902, Card: 1133 ||, Store: 3367, T ID: 224068, Card: 0832 ||}
+296382570: {Store: 1025, T ID: 203364, Card: 5588 ||, Store: 1025, T ID: 187930, Card: 9354 ||, Store: 1025, T ID: 187931, Card: 7319 ||, Store: 1025, T ID: 187932, Card: 4073 ||}
+303538442: {Store: 2297, T ID: 254675, Card: 1442 ||, Store: 2297, T ID: 132707, Card: 9835 ||, Store: 2297, T ID: 254532, Card: 4380 ||}
+297892413: {Store: 3530, T ID: 131783, Card: 1811 ||, Store: 3530, T ID: 131774, Card: 3003 ||, Store: 3530, T ID: 131780, Card: 2977 ||}
+303262313: {Store: 2062, T ID: 201630, Card: 3441 ||, Store: 2062, T ID: 201636, Card: 3853 ||, Store: 2062, T ID: 201626, Card: 3209 ||, Store: 2062, T ID: 495628, Card: 4883 ||}
+297063143: {Store: 1362, T ID: 440240, Card: 1425 ||, Store: 1362, T ID: 439544, Card: 3782 ||, Store: 1362, T ID: 440281, Card: 0373 ||}
+301515248: {Store: 560, T ID: 219404, Card: 6349 ||, Store: 1086, T ID: 103501, Card: 4461 ||, Store: 3521, T ID: 140584, Card: 8003 ||}
+296012498: {Store: 1102, T ID: 190676, Card: 3122 ||, Store: 1102, T ID: 190718, Card: 9337 ||, Store: 1102, T ID: 218729, Card: 7467 ||}
+301005344: {Store: 2928, T ID: 258320, Card: 1021 ||, Store: 2928, T ID: 258739, Card: 4109 ||, Store: 2928, T ID: 259076, Card: 0776 ||, Store: 2928, T ID: 258328, Card: 4480 ||, Store: 2928, T ID: 258741, Card: 1664 ||, Store: 2928, T ID: 258549, Card: 4590 ||, Store: 2928, T ID: 259368, Card: 8235 ||, Store: 2928, T ID: 259087, Card: 8416 ||, Store: 2928, T ID: 258755, Card: 2500 ||, Store: 2928, T ID: 259086, Card: 1756 ||, Store: 2928, T ID: 258539, Card: 5003 ||}
+300975878: {Store: 2928, T ID: 154228, Card: 8047 ||, Store: 2928, T ID: 258345, Card: 1978 ||, Store: 2928, T ID: 153984, Card: 6201 ||, Store: 2928, T ID: 154219, Card: 6468 ||, Store: 2928, T ID: 258699, Card: 1930 ||, Store: 2928, T ID: 258702, Card: 9610 ||, Store: 2928, T ID: 258691, Card: 7196 ||, Store: 2928, T ID: 154623, Card: 5899 ||, Store: 2928, T ID: 154889, Card: 3002 ||, Store: 2928, T ID: 154624, Card: 4984 ||, Store: 2928, T ID: 154224, Card: 8187 ||, Store: 2928, T ID: 154621, Card: 0873 ||, Store: 2928, T ID: 258305, Card: 1755 ||, Store: 2548, T ID: 525750, Card: 4904 ||, Store: 2928, T ID: 154003, Card: 5382 ||, Store: 2928, T ID: 258752, Card: 5842 ||, Store: 2928, T ID: 154220, Card: 9921 ||}
+302378035: {Store: 145, T ID: 239308, Card: 8279 ||, Store: 145, T ID: 239318, Card: 7617 ||, Store: 417, T ID: 181209, Card: 9995 ||}
+294082721: {Store: 2176, T ID: 232230, Card: 9279 ||, Store: 2176, T ID: 231774, Card: 4716 ||, Store: 2176, T ID: 231783, Card: 2707 ||}
+303557724: {Store: 807, T ID: 601089, Card: 3490 ||, Store: 3104, T ID: 290045, Card: 4382 ||, Store: 3104, T ID: 290039, Card: 0589 ||}
+278162869: {Store: 1527, T ID: 423365, Card: 8254 ||, Store: 1645, T ID: 235616, Card: 7426 ||, Store: 1645, T ID: 172927, Card: 7721 ||, Store: 1527, T ID: 424487, Card: 2568 ||, Store: 1527, T ID: 348480, Card: 8105 ||}
+298226216: {Store: 3272, T ID: 145495, Card: 1435 ||, Store: 3272, T ID: 145426, Card: 3480 ||, Store: 3272, T ID: 289781, Card: 8554 ||}
+298712570: {Store: 1481, T ID: 278269, Card: 4530 ||, Store: 1481, T ID: 111272, Card: 2749 ||, Store: 1481, T ID: 111294, Card: 8862 ||}
+298211074: {Store: 1988, T ID: 198984, Card: 3667 ||, Store: 1988, T ID: 198932, Card: 3328 ||, Store: 1988, T ID: 198922, Card: 6367 ||}
+297271326: {Store: 2199, T ID: 299081, Card: 9706 ||, Store: 2199, T ID: 152891, Card: 7259 ||, Store: 2199, T ID: 299091, Card: 3275 ||, Store: 2199, T ID: 298837, Card: 4224 ||}
+298779424: {Store: 2728, T ID: 294497, Card: 6505 ||, Store: 2728, T ID: 193504, Card: 8217 ||, Store: 2728, T ID: 293203, Card: 8284 ||, Store: 2728, T ID: 293186, Card: 8875 ||}
+296233089: {Store: 2047, T ID: 175977, Card: 4463 ||, Store: 2047, T ID: 175821, Card: 4015 ||, Store: 2047, T ID: 222367, Card: 4093 ||, Store: 2047, T ID: 222372, Card: 2321 ||, Store: 2047, T ID: 222656, Card: 2447 ||}
+297656359: {Store: 3238, T ID: 153135, Card: 3186 ||, Store: 3238, T ID: 228914, Card: 4480 ||, Store: 3238, T ID: 152973, Card: 8948 ||}
+296305164: {Store: 2549, T ID: 129281, Card: 7635 ||, Store: 2549, T ID: 287334, Card: 1897 ||, Store: 2549, T ID: 287866, Card: 7901 ||, Store: 2549, T ID: 287336, Card: 1357 ||, Store: 2549, T ID: 129790, Card: 7674 ||}
+297525812: {Store: 3460, T ID: 414218, Card: 1249 ||, Store: 1142, T ID: 297918, Card: 0121 ||, Store: 3460, T ID: 414201, Card: 9389 ||}
+296321241: {Store: 966, T ID: 107443, Card: 2216 ||, Store: 2158, T ID: 255845, Card: 0236 ||, Store: 2158, T ID: 255832, Card: 4009 ||}
+295999731: {Store: 842, T ID: 290962, Card: 5964 ||, Store: 842, T ID: 290939, Card: 3836 ||, Store: 842, T ID: 117798, Card: 2010 ||}
+296334273: {Store: 647, T ID: 211916, Card: 4811 ||, Store: 1076, T ID: 236264, Card: 0743 ||, Store: 3205, T ID: 262981, Card: 2017 ||, Store: 3205, T ID: 262987, Card: 8731 ||}
+301094536: {Store: 682, T ID: 120850, Card: 0242 ||, Store: 682, T ID: 120863, Card: 4971 ||, Store: 682, T ID: 121200, Card: 0293 ||, Store: 682, T ID: 217765, Card: 3200 ||}
+297053681: {Store: 3524, T ID: 137894, Card: 5120 ||, Store: 1956, T ID: 109093, Card: 4175 ||, Store: 1956, T ID: 109075, Card: 7683 ||}
+296717440: {Store: 1262, T ID: 115502, Card: 1015 ||, Store: 1920, T ID: 252354, Card: 9867 ||, Store: 1262, T ID: 222993, Card: 6096 ||}
+300445612: {Store: 1047, T ID: 196994, Card: 1011 ||, Store: 1154, T ID: 260448, Card: 3009 ||, Store: 3288, T ID: 497756, Card: 8436 ||}
+301912703: {Store: 1013, T ID: 208400, Card: 2496 ||, Store: 1013, T ID: 209632, Card: 4624 ||, Store: 1013, T ID: 151618, Card: 0174 ||, Store: 1013, T ID: 152076, Card: 3030 ||, Store: 1013, T ID: 208875, Card: 1258 ||, Store: 1013, T ID: 152060, Card: 3438 ||, Store: 1013, T ID: 152495, Card: 7451 ||, Store: 1013, T ID: 152896, Card: 2531 ||, Store: 1013, T ID: 209328, Card: 3466 ||, Store: 1013, T ID: 208897, Card: 6359 ||}
+278609356: {Store: 1247, T ID: 219558, Card: 3786 ||, Store: 1247, T ID: 219599, Card: 0058 ||, Store: 1247, T ID: 170513, Card: 4370 ||, Store: 1247, T ID: 219561, Card: 2606 ||, Store: 1247, T ID: 170506, Card: 2801 ||, Store: 1247, T ID: 219562, Card: 8119 ||, Store: 1247, T ID: 170818, Card: 6826 ||, Store: 1247, T ID: 170507, Card: 9328 ||, Store: 1247, T ID: 170603, Card: 1711 ||, Store: 1247, T ID: 170837, Card: 4651 ||, Store: 1247, T ID: 170801, Card: 5447 ||}
+295265115: {Store: 2460, T ID: 214195, Card: 0226 ||, Store: 2460, T ID: 127435, Card: 4422 ||, Store: 2460, T ID: 128353, Card: 8736 ||}
+300401693: {Store: 1013, T ID: 208918, Card: 8156 ||, Store: 1013, T ID: 208913, Card: 9392 ||, Store: 1059, T ID: 107346, Card: 9172 ||}
+298395997: {Store: 948, T ID: 262209, Card: 5520 ||, Store: 948, T ID: 261670, Card: 3975 ||, Store: 948, T ID: 261510, Card: 6390 ||, Store: 948, T ID: 261478, Card: 7123 ||}
+299271980: {Store: 2210, T ID: 148061, Card: 8594 ||, Store: 2210, T ID: 148042, Card: 8873 ||, Store: 2288, T ID: 206008, Card: 7567 ||, Store: 2288, T ID: 206001, Card: 5708 ||, Store: 2931, T ID: 275539, Card: 4637 ||, Store: 2288, T ID: 206002, Card: 3445 ||, Store: 2427, T ID: 137714, Card: 2420 ||}
+303025942: {Store: 1013, T ID: 208397, Card: 7387 ||, Store: 3275, T ID: 191496, Card: 8348 ||, Store: 1013, T ID: 151667, Card: 3000 ||, Store: 3275, T ID: 293834, Card: 9038 ||, Store: 1013, T ID: 208396, Card: 8400 ||}
+295913675: {Store: 118, T ID: 150478, Card: 7259 ||, Store: 118, T ID: 151509, Card: 5920 ||, Store: 118, T ID: 205511, Card: 9243 ||, Store: 118, T ID: 151375, Card: 3057 ||, Store: 118, T ID: 150065, Card: 9312 ||, Store: 118, T ID: 150278, Card: 7053 ||, Store: 118, T ID: 149850, Card: 8480 ||}
+299759769: {Store: 2363, T ID: 157113, Card: 8834 ||, Store: 2363, T ID: 294990, Card: 6018 ||, Store: 2363, T ID: 157119, Card: 1117 ||, Store: 2363, T ID: 157515, Card: 9510 ||, Store: 2363, T ID: 157491, Card: 7987 ||, Store: 2363, T ID: 157118, Card: 8771 ||, Store: 2363, T ID: 157520, Card: 9107 ||}
+295993354: {Store: 2049, T ID: 277453, Card: 3193 ||, Store: 2049, T ID: 108858, Card: 4019 ||, Store: 2049, T ID: 109495, Card: 7752 ||}
+302959272: {Store: 1212, T ID: 283921, Card: 1631 ||, Store: 1212, T ID: 126481, Card: 1725 ||, Store: 1212, T ID: 125232, Card: 7852 ||, Store: 1212, T ID: 283895, Card: 4743 ||, Store: 1212, T ID: 124996, Card: 1319 ||, Store: 1212, T ID: 285137, Card: 0721 ||, Store: 1212, T ID: 125240, Card: 6536 ||, Store: 1212, T ID: 125233, Card: 0300 ||}
+300616747: {Store: 1472, T ID: 138535, Card: 2772 ||, Store: 1233, T ID: 290211, Card: 7545 ||, Store: 1472, T ID: 425449, Card: 9212 ||, Store: 1472, T ID: 138541, Card: 1325 ||}
+300614525: {Store: 1053, T ID: 128900, Card: 5325 ||, Store: 1053, T ID: 128908, Card: 5687 ||, Store: 1053, T ID: 207088, Card: 1374 ||, Store: 1053, T ID: 207084, Card: 7995 ||}
+300877678: {Store: 3416, T ID: 153148, Card: 4109 ||, Store: 3416, T ID: 235647, Card: 0772 ||, Store: 3416, T ID: 235644, Card: 8456 ||}
+296825404: {Store: 840, T ID: 229786, Card: 5699 ||, Store: 840, T ID: 229882, Card: 3243 ||, Store: 2799, T ID: 290636, Card: 5617 ||}
+297147429: {Store: 731, T ID: 235563, Card: 6201 ||, Store: 731, T ID: 126582, Card: 5744 ||, Store: 731, T ID: 128452, Card: 4799 ||}
+300641104: {Store: 2366, T ID: 156430, Card: 1636 ||, Store: 2651, T ID: 223443, Card: 3254 ||, Store: 2074, T ID: 469576, Card: 6549 ||}
+303569241: {Store: 3521, T ID: 263755, Card: 0377 ||, Store: 3521, T ID: 263883, Card: 0011 ||, Store: 3521, T ID: 263909, Card: 7569 ||, Store: 3521, T ID: 263882, Card: 0353 ||, Store: 3521, T ID: 263014, Card: 2041 ||, Store: 3521, T ID: 141267, Card: 4930 ||, Store: 3521, T ID: 263712, Card: 6512 ||, Store: 3521, T ID: 263760, Card: 2490 ||, Store: 3521, T ID: 263738, Card: 8520 ||, Store: 3521, T ID: 263029, Card: 7087 ||, Store: 3521, T ID: 263008, Card: 6971 ||, Store: 3521, T ID: 140762, Card: 3281 ||}
+297070582: {Store: 2475, T ID: 228480, Card: 0865 ||, Store: 2475, T ID: 227555, Card: 2081 ||, Store: 2475, T ID: 181921, Card: 4728 ||, Store: 2475, T ID: 181832, Card: 7793 ||, Store: 2475, T ID: 182035, Card: 8293 ||, Store: 2475, T ID: 227276, Card: 0854 ||, Store: 2475, T ID: 229110, Card: 8141 ||, Store: 2475, T ID: 181808, Card: 3710 ||, Store: 2475, T ID: 227688, Card: 3761 ||, Store: 2475, T ID: 228758, Card: 5700 ||, Store: 2475, T ID: 227356, Card: 5325 ||, Store: 2475, T ID: 228743, Card: 1648 ||, Store: 2475, T ID: 227346, Card: 5364 ||, Store: 2475, T ID: 228439, Card: 0734 ||, Store: 2475, T ID: 227573, Card: 4624 ||, Store: 2475, T ID: 228457, Card: 1302 ||, Store: 2475, T ID: 228792, Card: 4003 ||, Store: 2475, T ID: 181929, Card: 0321 ||}
+296517648: {Store: 1964, T ID: 279846, Card: 8314 ||, Store: 1964, T ID: 279832, Card: 5782 ||, Store: 1964, T ID: 279824, Card: 2005 ||, Store: 1964, T ID: 182793, Card: 4458 ||}
+300008894: {Store: 1613, T ID: 127190, Card: 6187 ||, Store: 1613, T ID: 126813, Card: 5952 ||, Store: 1613, T ID: 211097, Card: 5779 ||, Store: 1613, T ID: 211121, Card: 6126 ||, Store: 1613, T ID: 212743, Card: 6899 ||, Store: 1613, T ID: 127291, Card: 8852 ||, Store: 1613, T ID: 211434, Card: 0832 ||}
+302610167: {Store: 3521, T ID: 263329, Card: 2944 ||, Store: 3521, T ID: 140883, Card: 4983 ||, Store: 3521, T ID: 263208, Card: 7051 ||, Store: 3521, T ID: 262989, Card: 5932 ||, Store: 3521, T ID: 263335, Card: 9727 ||, Store: 1209, T ID: 268237, Card: 2299 ||, Store: 3521, T ID: 263212, Card: 1383 ||, Store: 3521, T ID: 140915, Card: 9763 ||, Store: 3521, T ID: 263179, Card: 1000 ||, Store: 3521, T ID: 263139, Card: 8004 ||}
+303332237: {Store: 1253, T ID: 129983, Card: 1103 ||, Store: 1253, T ID: 129982, Card: 3060 ||, Store: 1253, T ID: 129990, Card: 5077 ||, Store: 1253, T ID: 129191, Card: 6324 ||, Store: 1253, T ID: 129967, Card: 7081 ||}
+299018799: {Store: 2197, T ID: 152091, Card: 6794 ||, Store: 2197, T ID: 152094, Card: 3368 ||, Store: 3057, T ID: 238372, Card: 6067 ||}
+302473988: {Store: 1613, T ID: 126737, Card: 5329 ||, Store: 1613, T ID: 126740, Card: 3208 ||, Store: 1613, T ID: 127122, Card: 7689 ||, Store: 1855, T ID: 180587, Card: 1261 ||, Store: 1613, T ID: 126426, Card: 4339 ||, Store: 1613, T ID: 126684, Card: 8008 ||, Store: 1613, T ID: 127266, Card: 0474 ||, Store: 1613, T ID: 127076, Card: 7020 ||, Store: 1613, T ID: 127090, Card: 8483 ||, Store: 1613, T ID: 126425, Card: 4100 ||, Store: 1613, T ID: 126676, Card: 8290 ||, Store: 1613, T ID: 126421, Card: 7620 ||, Store: 1613, T ID: 127094, Card: 5063 ||}
+299980966: {Store: 1365, T ID: 121455, Card: 2171 ||, Store: 1365, T ID: 226630, Card: 1942 ||, Store: 1365, T ID: 226676, Card: 5428 ||}
+283450924: {Store: 2877, T ID: 204058, Card: 4582 ||, Store: 2877, T ID: 204053, Card: 1684 ||, Store: 2877, T ID: 203793, Card: 4572 ||, Store: 2877, T ID: 203559, Card: 0348 ||, Store: 2877, T ID: 203788, Card: 6618 ||}
+299345512: {Store: 1749, T ID: 213897, Card: 1774 ||, Store: 1698, T ID: 278982, Card: 1009 ||, Store: 1749, T ID: 197660, Card: 6502 ||, Store: 1749, T ID: 213138, Card: 0347 ||}
+301415449: {Store: 2866, T ID: 275048, Card: 7703 ||, Store: 1597, T ID: 254799, Card: 3000 ||, Store: 1597, T ID: 254802, Card: 0795 ||}
+300418201: {Store: 1008, T ID: 484227, Card: 6705 ||, Store: 1238, T ID: 279039, Card: 7914 ||, Store: 1008, T ID: 292182, Card: 9566 ||}
+262280387: {Store: 3403, T ID: 291538, Card: 2078 ||, Store: 3403, T ID: 291869, Card: 0916 ||, Store: 3403, T ID: 291853, Card: 2331 ||, Store: 3403, T ID: 291856, Card: 9001 ||, Store: 3403, T ID: 291526, Card: 6366 ||}
+302452244: {Store: 2060, T ID: 279486, Card: 3669 ||, Store: 2060, T ID: 277855, Card: 2390 ||, Store: 2060, T ID: 279490, Card: 3717 ||}
+302285100: {Store: 171, T ID: 140862, Card: 1694 ||, Store: 171, T ID: 140582, Card: 7372 ||, Store: 171, T ID: 140802, Card: 9478 ||, Store: 171, T ID: 211015, Card: 5773 ||, Store: 171, T ID: 141957, Card: 1692 ||, Store: 171, T ID: 141320, Card: 7494 ||, Store: 171, T ID: 141950, Card: 6769 ||, Store: 171, T ID: 141290, Card: 4487 ||, Store: 171, T ID: 211723, Card: 5187 ||, Store: 171, T ID: 141292, Card: 1316 ||}
+302115477: {Store: 2840, T ID: 243085, Card: 6595 ||, Store: 2840, T ID: 243070, Card: 8079 ||, Store: 2840, T ID: 243062, Card: 9685 ||}
+303608885: {Store: 2713, T ID: 201858, Card: 7742 ||, Store: 2713, T ID: 201834, Card: 5818 ||, Store: 2713, T ID: 201857, Card: 6865 ||}
+301331830: {Store: 1337, T ID: 236230, Card: 3012 ||, Store: 1337, T ID: 236219, Card: 8205 ||, Store: 1337, T ID: 236224, Card: 3520 ||}
+298334175: {Store: 128, T ID: 201875, Card: 2900 ||, Store: 128, T ID: 201849, Card: 9896 ||, Store: 128, T ID: 125182, Card: 1688 ||, Store: 128, T ID: 125287, Card: 4743 ||}
+300323475: {Store: 730, T ID: 195915, Card: 5262 ||, Store: 730, T ID: 276416, Card: 1744 ||, Store: 1409, T ID: 193331, Card: 1027 ||, Store: 730, T ID: 276237, Card: 2426 ||, Store: 730, T ID: 276604, Card: 0025 ||, Store: 730, T ID: 276195, Card: 2019 ||}
+301880832: {Store: 961, T ID: 230558, Card: 6638 ||, Store: 961, T ID: 178935, Card: 0285 ||, Store: 961, T ID: 178941, Card: 0662 ||}
+295937992: {Store: 1372, T ID: 195556, Card: 0471 ||, Store: 1372, T ID: 286109, Card: 4703 ||, Store: 1372, T ID: 286183, Card: 4510 ||, Store: 1372, T ID: 194697, Card: 2169 ||, Store: 1372, T ID: 286182, Card: 8657 ||}
+303624451: {Store: 2548, T ID: 525256, Card: 3134 ||, Store: 2548, T ID: 287117, Card: 7824 ||, Store: 3304, T ID: 297787, Card: 2669 ||, Store: 2548, T ID: 287063, Card: 5767 ||}
+300336102: {Store: 1138, T ID: 151241, Card: 0740 ||, Store: 1138, T ID: 258952, Card: 5432 ||, Store: 1138, T ID: 258958, Card: 2758 ||}
+296502123: {Store: 1967, T ID: 209397, Card: 4725 ||, Store: 3512, T ID: 165475, Card: 4737 ||, Store: 1967, T ID: 126638, Card: 9147 ||}
+300768609: {Store: 1068, T ID: 164799, Card: 1657 ||, Store: 1068, T ID: 267625, Card: 3376 ||, Store: 1068, T ID: 164716, Card: 4063 ||, Store: 1068, T ID: 164754, Card: 5477 ||}
+299715589: {Store: 125, T ID: 279274, Card: 7054 ||, Store: 650, T ID: 162422, Card: 1761 ||, Store: 650, T ID: 162421, Card: 7019 ||, Store: 650, T ID: 231046, Card: 3374 ||, Store: 650, T ID: 162395, Card: 9574 ||}
+302057221: {Store: 1275, T ID: 146479, Card: 8221 ||, Store: 1275, T ID: 146303, Card: 4624 ||, Store: 1275, T ID: 146980, Card: 3833 ||, Store: 1275, T ID: 298015, Card: 1566 ||, Store: 1275, T ID: 146961, Card: 1639 ||}
+296115956: {Store: 3467, T ID: 133160, Card: 3005 ||, Store: 1419, T ID: 153127, Card: 6713 ||, Store: 3467, T ID: 241792, Card: 6752 ||}
+303022364: {Store: 2044, T ID: 267307, Card: 1422 ||, Store: 2044, T ID: 267351, Card: 6876 ||, Store: 2044, T ID: 267330, Card: 2414 ||}
+298896834: {Store: 3218, T ID: 137544, Card: 0324 ||, Store: 3218, T ID: 137548, Card: 8607 ||, Store: 1835, T ID: 146120, Card: 7030 ||}
+303632498: {Store: 1613, T ID: 211144, Card: 1937 ||, Store: 145, T ID: 240663, Card: 2635 ||, Store: 1613, T ID: 212514, Card: 4728 ||, Store: 1613, T ID: 211167, Card: 3427 ||, Store: 1613, T ID: 211174, Card: 2593 ||}
+299230468: {Store: 433, T ID: 183790, Card: 4738 ||, Store: 3396, T ID: 130390, Card: 6230 ||, Store: 3396, T ID: 401434, Card: 4121 ||}
+302319783: {Store: 1470, T ID: 217996, Card: 7252 ||, Store: 1470, T ID: 217648, Card: 1128 ||, Store: 385, T ID: 578229, Card: 9067 ||}
+300648881: {Store: 2975, T ID: 170326, Card: 4631 ||, Store: 740, T ID: 244879, Card: 4410 ||, Store: 2975, T ID: 452897, Card: 9624 ||}
+303636183: {Store: 1157, T ID: 473801, Card: 9726 ||, Store: 1157, T ID: 205784, Card: 4875 ||, Store: 1157, T ID: 205782, Card: 6329 ||}
+296814050: {Store: 1434, T ID: 174218, Card: 9136 ||, Store: 1434, T ID: 174198, Card: 7535 ||, Store: 1434, T ID: 174197, Card: 7288 ||, Store: 1434, T ID: 174196, Card: 2577 ||}
+296114946: {Store: 1261, T ID: 472964, Card: 7172 ||, Store: 1261, T ID: 472922, Card: 4051 ||, Store: 1261, T ID: 700023, Card: 6035 ||, Store: 1261, T ID: 472971, Card: 9274 ||, Store: 1261, T ID: 473688, Card: 8276 ||, Store: 1261, T ID: 472582, Card: 1892 ||, Store: 1261, T ID: 265107, Card: 1011 ||, Store: 1261, T ID: 472972, Card: 0313 ||, Store: 1261, T ID: 474293, Card: 1659 ||, Store: 1261, T ID: 700024, Card: 5079 ||, Store: 1261, T ID: 474254, Card: 9669 ||}
+300405676: {Store: 2686, T ID: 112199, Card: 4930 ||, Store: 2686, T ID: 112184, Card: 0369 ||, Store: 2686, T ID: 232303, Card: 6810 ||}
+296163300: {Store: 1223, T ID: 101565, Card: 0082 ||, Store: 1223, T ID: 292459, Card: 3964 ||, Store: 1223, T ID: 292924, Card: 5949 ||}
+296697455: {Store: 3523, T ID: 424106, Card: 5976 ||, Store: 3523, T ID: 424076, Card: 4049 ||, Store: 3523, T ID: 423303, Card: 3213 ||, Store: 2481, T ID: 453097, Card: 0275 ||}
+303405355: {Store: 1673, T ID: 435401, Card: 9402 ||, Store: 924, T ID: 269770, Card: 0421 ||, Store: 1155, T ID: 281169, Card: 9563 ||}
+295128210: {Store: 1022, T ID: 244634, Card: 1907 ||, Store: 1022, T ID: 245343, Card: 3461 ||, Store: 1022, T ID: 245336, Card: 7597 ||, Store: 1613, T ID: 127243, Card: 1473 ||}
+296636666: {Store: 1043, T ID: 134006, Card: 0998 ||, Store: 1043, T ID: 243354, Card: 8112 ||, Store: 1043, T ID: 133141, Card: 7085 ||}
+298691242: {Store: 3460, T ID: 414227, Card: 4987 ||, Store: 3460, T ID: 414210, Card: 8714 ||, Store: 3460, T ID: 414212, Card: 9401 ||, Store: 3460, T ID: 414219, Card: 0901 ||}
+295994386: {Store: 2862, T ID: 156322, Card: 2399 ||, Store: 2862, T ID: 155708, Card: 8186 ||, Store: 2862, T ID: 155614, Card: 1952 ||}
+297938874: {Store: 3277, T ID: 140959, Card: 7787 ||, Store: 3277, T ID: 140960, Card: 3643 ||, Store: 3277, T ID: 284378, Card: 3483 ||}
+282683164: {Store: 2787, T ID: 172669, Card: 5933 ||, Store: 2787, T ID: 295390, Card: 2578 ||, Store: 2787, T ID: 172665, Card: 0287 ||, Store: 2787, T ID: 295394, Card: 4946 ||}
+296107604: {Store: 175, T ID: 299557, Card: 7666 ||, Store: 175, T ID: 299531, Card: 8829 ||, Store: 1351, T ID: 114275, Card: 0022 ||}
+303183655: {Store: 2089, T ID: 253399, Card: 9749 ||, Store: 2089, T ID: 156098, Card: 0255 ||, Store: 2089, T ID: 156076, Card: 5243 ||}
+303693876: {Store: 897, T ID: 191636, Card: 2873 ||, Store: 897, T ID: 191621, Card: 0890 ||, Store: 897, T ID: 283705, Card: 4856 ||, Store: 897, T ID: 191543, Card: 7052 ||}
+295995738: {Store: 1589, T ID: 173031, Card: 4732 ||, Store: 1589, T ID: 270675, Card: 3449 ||, Store: 1589, T ID: 424321, Card: 3807 ||}
+299557236: {Store: 1454, T ID: 193359, Card: 1007 ||, Store: 1454, T ID: 193103, Card: 5391 ||, Store: 1454, T ID: 193375, Card: 0044 ||}
+296068502: {Store: 110, T ID: 108747, Card: 9156 ||, Store: 110, T ID: 221822, Card: 5188 ||, Store: 110, T ID: 108753, Card: 9421 ||}
+296291585: {Store: 2466, T ID: 226126, Card: 7525 ||, Store: 2466, T ID: 225615, Card: 3652 ||, Store: 2466, T ID: 226099, Card: 1171 ||, Store: 2466, T ID: 192879, Card: 4577 ||}
+297602883: {Store: 2123, T ID: 201624, Card: 5588 ||, Store: 2123, T ID: 201539, Card: 1222 ||, Store: 2123, T ID: 153337, Card: 9574 ||, Store: 2123, T ID: 153353, Card: 7042 ||, Store: 2123, T ID: 201546, Card: 6912 ||, Store: 2123, T ID: 153048, Card: 8292 ||}
+298324710: {Store: 3393, T ID: 407236, Card: 6535 ||, Store: 3393, T ID: 407861, Card: 0494 ||, Store: 3393, T ID: 407286, Card: 7569 ||}
+297006020: {Store: 2287, T ID: 166669, Card: 5610 ||, Store: 2287, T ID: 249200, Card: 0489 ||, Store: 2287, T ID: 248773, Card: 7489 ||, Store: 2287, T ID: 167319, Card: 5771 ||, Store: 2287, T ID: 167108, Card: 4949 ||, Store: 2287, T ID: 166934, Card: 8813 ||, Store: 2287, T ID: 248765, Card: 9411 ||}
+301191868: {Store: 3396, T ID: 239312, Card: 9967 ||, Store: 3396, T ID: 239300, Card: 0536 ||, Store: 1042, T ID: 166175, Card: 8555 ||}
+296479534: {Store: 1056, T ID: 160641, Card: 5070 ||, Store: 1056, T ID: 266269, Card: 9940 ||, Store: 1056, T ID: 266153, Card: 9398 ||, Store: 1056, T ID: 266292, Card: 3197 ||, Store: 1056, T ID: 266162, Card: 1007 ||}
+296371940: {Store: 3350, T ID: 235096, Card: 6590 ||, Store: 3416, T ID: 235952, Card: 9565 ||, Store: 3416, T ID: 235941, Card: 8051 ||, Store: 3350, T ID: 235086, Card: 6909 ||, Store: 3416, T ID: 235938, Card: 5773 ||}
+296013922: {Store: 226, T ID: 212835, Card: 0069 ||, Store: 226, T ID: 212842, Card: 7263 ||, Store: 226, T ID: 212831, Card: 8267 ||}
+278400043: {Store: 1245, T ID: 251116, Card: 7730 ||, Store: 1245, T ID: 148006, Card: 0134 ||, Store: 1245, T ID: 147562, Card: 6764 ||, Store: 1245, T ID: 250903, Card: 5874 ||, Store: 1245, T ID: 251303, Card: 8237 ||, Store: 1245, T ID: 251098, Card: 3216 ||, Store: 1245, T ID: 251087, Card: 7569 ||}
+299239775: {Store: 837, T ID: 237663, Card: 9125 ||, Store: 1059, T ID: 436418, Card: 6235 ||, Store: 1013, T ID: 152622, Card: 4025 ||}
+296694718: {Store: 3019, T ID: 297262, Card: 5072 ||, Store: 3019, T ID: 297258, Card: 3864 ||, Store: 3019, T ID: 114697, Card: 3613 ||, Store: 3019, T ID: 114678, Card: 2639 ||}
+296626831: {Store: 1534, T ID: 439072, Card: 4449 ||, Store: 1534, T ID: 314469, Card: 8048 ||, Store: 1534, T ID: 437284, Card: 8356 ||}
+256369491: {Store: 797, T ID: 291486, Card: 5940 ||, Store: 797, T ID: 292531, Card: 9468 ||, Store: 797, T ID: 291957, Card: 4412 ||, Store: 797, T ID: 291485, Card: 6639 ||, Store: 797, T ID: 292532, Card: 5560 ||, Store: 797, T ID: 291963, Card: 5291 ||}
+296219178: {Store: 1049, T ID: 192208, Card: 3256 ||, Store: 1049, T ID: 224550, Card: 8002 ||, Store: 1049, T ID: 443827, Card: 4575 ||}
+296006438: {Store: 1631, T ID: 291987, Card: 8934 ||, Store: 1631, T ID: 291322, Card: 3189 ||, Store: 1631, T ID: 291992, Card: 3082 ||, Store: 1631, T ID: 292015, Card: 3500 ||, Store: 1631, T ID: 292027, Card: 0653 ||}
+297165517: {Store: 1128, T ID: 258792, Card: 3625 ||, Store: 1128, T ID: 257660, Card: 5288 ||, Store: 1128, T ID: 125274, Card: 1645 ||, Store: 1128, T ID: 125292, Card: 4596 ||}
+300491235: {Store: 1045, T ID: 181891, Card: 2100 ||, Store: 1045, T ID: 272250, Card: 8113 ||, Store: 1045, T ID: 272019, Card: 8677 ||, Store: 1045, T ID: 181902, Card: 9420 ||, Store: 1045, T ID: 272351, Card: 2239 ||}
+279512267: {Store: 3367, T ID: 224941, Card: 8608 ||, Store: 3367, T ID: 224916, Card: 4694 ||, Store: 3367, T ID: 224128, Card: 8759 ||}
+298622062: {Store: 2320, T ID: 217833, Card: 2099 ||, Store: 2371, T ID: 133107, Card: 4366 ||, Store: 2371, T ID: 133095, Card: 4638 ||}
+295935639: {Store: 2764, T ID: 206341, Card: 4463 ||, Store: 2764, T ID: 206299, Card: 3883 ||, Store: 2764, T ID: 147843, Card: 9042 ||, Store: 2764, T ID: 207050, Card: 6293 ||}
+303783473: {Store: 2397, T ID: 257194, Card: 7092 ||, Store: 2397, T ID: 257014, Card: 2418 ||, Store: 2397, T ID: 257026, Card: 4744 ||, Store: 2397, T ID: 257176, Card: 4190 ||, Store: 2397, T ID: 257337, Card: 2552 ||, Store: 2397, T ID: 257115, Card: 6337 ||, Store: 2397, T ID: 257146, Card: 7173 ||, Store: 2397, T ID: 257448, Card: 0662 ||, Store: 2397, T ID: 257185, Card: 4207 ||, Store: 2397, T ID: 257300, Card: 2009 ||, Store: 2397, T ID: 257480, Card: 1403 ||}
+303783728: {Store: 2397, T ID: 257057, Card: 2578 ||, Store: 2397, T ID: 257019, Card: 2728 ||, Store: 2397, T ID: 257108, Card: 3752 ||, Store: 2397, T ID: 492016, Card: 3421 ||, Store: 2397, T ID: 257094, Card: 8704 ||, Store: 2397, T ID: 257202, Card: 0548 ||, Store: 2397, T ID: 257309, Card: 9445 ||, Store: 2397, T ID: 257308, Card: 3275 ||, Store: 2397, T ID: 257067, Card: 6786 ||, Store: 2397, T ID: 257066, Card: 6178 ||, Store: 2397, T ID: 257440, Card: 7768 ||, Store: 2397, T ID: 257442, Card: 4375 ||}
+295977820: {Store: 482, T ID: 215491, Card: 4036 ||, Store: 482, T ID: 180063, Card: 2425 ||, Store: 482, T ID: 215485, Card: 5060 ||}
+283148117: {Store: 2785, T ID: 442024, Card: 7465 ||, Store: 2785, T ID: 220708, Card: 6615 ||, Store: 2785, T ID: 220821, Card: 1933 ||, Store: 2785, T ID: 220823, Card: 7623 ||}
+303793740: {Store: 2020, T ID: 247934, Card: 0558 ||, Store: 676, T ID: 152009, Card: 5446 ||, Store: 2020, T ID: 247941, Card: 4903 ||}
+295733672: {Store: 2321, T ID: 191720, Card: 9199 ||, Store: 2321, T ID: 190766, Card: 7407 ||, Store: 2321, T ID: 191735, Card: 3226 ||, Store: 2321, T ID: 191736, Card: 0938 ||, Store: 2321, T ID: 190782, Card: 4013 ||}
+303744442: {Store: 1884, T ID: 483160, Card: 0641 ||, Store: 1884, T ID: 224593, Card: 8531 ||, Store: 1884, T ID: 224600, Card: 0536 ||}
+296557747: {Store: 1775, T ID: 295916, Card: 4468 ||, Store: 1775, T ID: 296534, Card: 8699 ||, Store: 1775, T ID: 295902, Card: 8470 ||, Store: 1775, T ID: 295900, Card: 2518 ||, Store: 1775, T ID: 295901, Card: 8819 ||, Store: 1775, T ID: 296533, Card: 4707 ||}
+302891862: {Store: 2557, T ID: 120887, Card: 0079 ||, Store: 2557, T ID: 263796, Card: 7571 ||, Store: 2557, T ID: 263794, Card: 8110 ||, Store: 2557, T ID: 263405, Card: 4700 ||, Store: 2557, T ID: 120861, Card: 7327 ||}
+296370056: {Store: 1304, T ID: 124740, Card: 3106 ||, Store: 1304, T ID: 206992, Card: 1702 ||, Store: 1304, T ID: 124730, Card: 9440 ||, Store: 1304, T ID: 207035, Card: 4569 ||}
+301615277: {Store: 1538, T ID: 202241, Card: 0387 ||, Store: 1538, T ID: 202262, Card: 8340 ||, Store: 1538, T ID: 188123, Card: 5682 ||}
+303907780: {Store: 2020, T ID: 116561, Card: 2705 ||, Store: 2020, T ID: 928225, Card: 1847 ||, Store: 2020, T ID: 248241, Card: 1448 ||}
+297248939: {Store: 1195, T ID: 125048, Card: 3056 ||, Store: 1543, T ID: 182556, Card: 3516 ||, Store: 1543, T ID: 182545, Card: 2626 ||}
+279999070: {Store: 2191, T ID: 227028, Card: 1006 ||, Store: 1750, T ID: 249693, Card: 6946 ||, Store: 1750, T ID: 249707, Card: 2857 ||}
+298058212: {Store: 1955, T ID: 263069, Card: 1189 ||, Store: 1955, T ID: 499676, Card: 1567 ||, Store: 1955, T ID: 263074, Card: 8393 ||}
+298228253: {Store: 260, T ID: 124850, Card: 9681 ||, Store: 973, T ID: 171023, Card: 8504 ||, Store: 260, T ID: 124861, Card: 7436 ||}
+296927513: {Store: 1154, T ID: 474870, Card: 3617 ||, Store: 1002, T ID: 179360, Card: 9868 ||, Store: 1002, T ID: 179370, Card: 2528 ||}
+296264408: {Store: 1337, T ID: 237499, Card: 3421 ||, Store: 108, T ID: 276946, Card: 1783 ||, Store: 1337, T ID: 117175, Card: 5426 ||}
+296086735: {Store: 1093, T ID: 248294, Card: 1674 ||, Store: 1093, T ID: 248255, Card: 5780 ||, Store: 1093, T ID: 248240, Card: 2299 ||, Store: 1093, T ID: 248279, Card: 4090 ||}
+296808863: {Store: 3383, T ID: 295254, Card: 3012 ||, Store: 3383, T ID: 295301, Card: 2207 ||, Store: 3383, T ID: 295292, Card: 1298 ||}
+296107081: {Store: 1672, T ID: 207364, Card: 2127 ||, Store: 1672, T ID: 207411, Card: 9144 ||, Store: 1672, T ID: 100329, Card: 8821 ||, Store: 1672, T ID: 207363, Card: 9775 ||, Store: 1672, T ID: 207373, Card: 7883 ||, Store: 1672, T ID: 207254, Card: 7584 ||}
+299789692: {Store: 2466, T ID: 226098, Card: 0502 ||, Store: 1562, T ID: 260612, Card: 8604 ||, Store: 2466, T ID: 226117, Card: 4636 ||, Store: 1562, T ID: 260594, Card: 0486 ||, Store: 1562, T ID: 260798, Card: 5300 ||, Store: 2466, T ID: 226071, Card: 2317 ||, Store: 1562, T ID: 260797, Card: 3659 ||}
+302002848: {Store: 2848, T ID: 285794, Card: 2194 ||, Store: 2848, T ID: 168564, Card: 2780 ||, Store: 2848, T ID: 286053, Card: 6715 ||, Store: 2848, T ID: 285854, Card: 8306 ||, Store: 2848, T ID: 285853, Card: 4499 ||, Store: 2848, T ID: 168623, Card: 4594 ||}
+298421098: {Store: 3369, T ID: 258787, Card: 5053 ||, Store: 3369, T ID: 258572, Card: 0345 ||, Store: 3369, T ID: 189256, Card: 5856 ||, Store: 3369, T ID: 259213, Card: 4783 ||, Store: 3369, T ID: 258812, Card: 1135 ||, Store: 3369, T ID: 189257, Card: 7454 ||}
+296598036: {Store: 2521, T ID: 575776, Card: 5799 ||, Store: 2521, T ID: 292411, Card: 7770 ||, Store: 2521, T ID: 139768, Card: 1002 ||}
+301544105: {Store: 3071, T ID: 149720, Card: 6389 ||, Store: 3071, T ID: 274860, Card: 5530 ||, Store: 3071, T ID: 274799, Card: 5416 ||, Store: 3071, T ID: 149721, Card: 8910 ||}
+303981046: {Store: 2397, T ID: 257201, Card: 5004 ||, Store: 2397, T ID: 257181, Card: 7119 ||, Store: 2397, T ID: 257310, Card: 0979 ||, Store: 2397, T ID: 257313, Card: 7469 ||}
+296954627: {Store: 2114, T ID: 130498, Card: 5007 ||, Store: 447, T ID: 215443, Card: 9857 ||, Store: 447, T ID: 215453, Card: 3239 ||, Store: 447, T ID: 215465, Card: 1343 ||, Store: 447, T ID: 215459, Card: 4689 ||, Store: 2114, T ID: 130482, Card: 9415 ||}
+303991240: {Store: 2989, T ID: 242546, Card: 4543 ||, Store: 2989, T ID: 242557, Card: 8729 ||, Store: 2989, T ID: 242567, Card: 2804 ||, Store: 2989, T ID: 242555, Card: 1567 ||}
+303998109: {Store: 2397, T ID: 257172, Card: 9944 ||, Store: 2397, T ID: 257142, Card: 5976 ||, Store: 2397, T ID: 257217, Card: 4974 ||, Store: 2397, T ID: 257131, Card: 9065 ||, Store: 2397, T ID: 257116, Card: 4077 ||, Store: 2397, T ID: 257190, Card: 7506 ||}
+296017939: {Store: 1763, T ID: 201200, Card: 8549 ||, Store: 1763, T ID: 201615, Card: 5280 ||, Store: 1763, T ID: 201176, Card: 1227 ||, Store: 800, T ID: 152572, Card: 7228 ||}
+299276017: {Store: 2018, T ID: 103136, Card: 7432 ||, Store: 2018, T ID: 103125, Card: 4166 ||, Store: 2018, T ID: 103120, Card: 7373 ||, Store: 2018, T ID: 103108, Card: 3534 ||}
+296270193: {Store: 1865, T ID: 221011, Card: 5610 ||, Store: 1865, T ID: 221012, Card: 5690 ||, Store: 1865, T ID: 220991, Card: 9203 ||, Store: 1865, T ID: 221104, Card: 5868 ||, Store: 1865, T ID: 221131, Card: 9965 ||, Store: 1865, T ID: 221020, Card: 3659 ||}
+297545126: {Store: 1297, T ID: 144811, Card: 8165 ||, Store: 1297, T ID: 144875, Card: 9587 ||, Store: 995, T ID: 253837, Card: 4872 ||, Store: 995, T ID: 253823, Card: 3767 ||, Store: 1297, T ID: 144873, Card: 7559 ||}
+296609153: {Store: 1701, T ID: 287871, Card: 5531 ||, Store: 1701, T ID: 288321, Card: 6474 ||, Store: 1701, T ID: 172331, Card: 2004 ||, Store: 1701, T ID: 172476, Card: 3882 ||, Store: 1701, T ID: 288394, Card: 3116 ||}
+296956627: {Store: 1855, T ID: 181079, Card: 7240 ||, Store: 1855, T ID: 181061, Card: 0818 ||, Store: 1855, T ID: 181073, Card: 8291 ||}
+303969300: {Store: 1013, T ID: 152913, Card: 7756 ||, Store: 1059, T ID: 107726, Card: 6743 ||, Store: 1013, T ID: 152513, Card: 2400 ||, Store: 1059, T ID: 107717, Card: 9558 ||, Store: 1013, T ID: 209643, Card: 9608 ||, Store: 1013, T ID: 209656, Card: 3860 ||}
+296924641: {Store: 1775, T ID: 154283, Card: 0391 ||, Store: 3530, T ID: 132811, Card: 8632 ||, Store: 3530, T ID: 132812, Card: 6274 ||}
+295941398: {Store: 1952, T ID: 244714, Card: 6146 ||, Store: 1952, T ID: 185944, Card: 4359 ||, Store: 1952, T ID: 244677, Card: 8629 ||}
+295451152: {Store: 3523, T ID: 424035, Card: 5359 ||, Store: 3523, T ID: 423846, Card: 7014 ||, Store: 3523, T ID: 270898, Card: 3434 ||, Store: 3523, T ID: 270769, Card: 9281 ||, Store: 3523, T ID: 270894, Card: 5211 ||}
+295947964: {Store: 3346, T ID: 200045, Card: 5832 ||, Store: 3346, T ID: 200041, Card: 5856 ||, Store: 3346, T ID: 200036, Card: 0044 ||}
+304123318: {Store: 852, T ID: 244640, Card: 3925 ||, Store: 852, T ID: 244638, Card: 0556 ||, Store: 852, T ID: 244647, Card: 0108 ||}
+304124168: {Store: 3119, T ID: 218670, Card: 8909 ||, Store: 3119, T ID: 194038, Card: 8846 ||, Store: 3119, T ID: 218664, Card: 5147 ||}
+267911769: {Store: 1864, T ID: 130630, Card: 9969 ||, Store: 2437, T ID: 215439, Card: 2122 ||, Store: 2437, T ID: 215434, Card: 7773 ||, Store: 1864, T ID: 299126, Card: 7242 ||}
+297855185: {Store: 1936, T ID: 108072, Card: 6751 ||, Store: 1936, T ID: 108276, Card: 8711 ||, Store: 1936, T ID: 108278, Card: 5466 ||}
+296328091: {Store: 1907, T ID: 494135, Card: 3257 ||, Store: 1907, T ID: 208529, Card: 5012 ||, Store: 1907, T ID: 208557, Card: 4237 ||}
+298205179: {Store: 1262, T ID: 115664, Card: 7932 ||, Store: 1262, T ID: 223482, Card: 0142 ||, Store: 1262, T ID: 223478, Card: 1321 ||, Store: 1262, T ID: 463838, Card: 7556 ||}
+302160476: {Store: 2869, T ID: 135357, Card: 0788 ||, Store: 2869, T ID: 135345, Card: 1687 ||, Store: 2869, T ID: 135347, Card: 4338 ||}
+304033175: {Store: 1613, T ID: 126847, Card: 1284 ||, Store: 1613, T ID: 211942, Card: 4484 ||, Store: 1613, T ID: 212690, Card: 0439 ||}
+304183961: {Store: 1888, T ID: 204323, Card: 7668 ||, Store: 1888, T ID: 204327, Card: 2107 ||, Store: 1888, T ID: 204335, Card: 5466 ||}
+304165636: {Store: 1174, T ID: 161380, Card: 5962 ||, Store: 1174, T ID: 161340, Card: 1717 ||, Store: 3293, T ID: 209199, Card: 6978 ||}
+304197374: {Store: 3399, T ID: 215530, Card: 0321 ||, Store: 3399, T ID: 154287, Card: 3620 ||, Store: 3399, T ID: 215934, Card: 0109 ||}
+300705787: {Store: 2212, T ID: 210040, Card: 6324 ||, Store: 2212, T ID: 195405, Card: 6469 ||, Store: 2212, T ID: 195407, Card: 7408 ||}
+296006627: {Store: 2583, T ID: 239593, Card: 4225 ||, Store: 2583, T ID: 239588, Card: 3146 ||, Store: 2583, T ID: 198290, Card: 0673 ||}
+301682579: {Store: 752, T ID: 143431, Card: 5358 ||, Store: 752, T ID: 143170, Card: 5662 ||, Store: 752, T ID: 143192, Card: 2121 ||}
+303955625: {Store: 435, T ID: 293412, Card: 6574 ||, Store: 435, T ID: 293676, Card: 9942 ||, Store: 2466, T ID: 514467, Card: 3825 ||, Store: 435, T ID: 188988, Card: 1170 ||, Store: 435, T ID: 293949, Card: 8178 ||, Store: 435, T ID: 560745, Card: 4129 ||, Store: 1552, T ID: 238297, Card: 1193 ||, Store: 435, T ID: 189047, Card: 1373 ||, Store: 435, T ID: 189353, Card: 9338 ||, Store: 2466, T ID: 514480, Card: 3941 ||, Store: 435, T ID: 293675, Card: 8923 ||, Store: 435, T ID: 293999, Card: 9060 ||}
+296193662: {Store: 2514, T ID: 291819, Card: 4130 ||, Store: 2514, T ID: 292291, Card: 9412 ||, Store: 2514, T ID: 291817, Card: 3336 ||}
+298574322: {Store: 1374, T ID: 282532, Card: 2615 ||, Store: 1374, T ID: 432598, Card: 5777 ||, Store: 1374, T ID: 282609, Card: 6309 ||, Store: 1374, T ID: 184947, Card: 7271 ||, Store: 1374, T ID: 282599, Card: 5253 ||}
+302206860: {Store: 1662, T ID: 295420, Card: 5068 ||, Store: 1662, T ID: 179704, Card: 1507 ||, Store: 1662, T ID: 179707, Card: 3878 ||}
+304234723: {Store: 2143, T ID: 289498, Card: 0189 ||, Store: 1228, T ID: 228164, Card: 1009 ||, Store: 1342, T ID: 198055, Card: 4246 ||}
+296779565: {Store: 118, T ID: 151837, Card: 8356 ||, Store: 118, T ID: 205392, Card: 0443 ||, Store: 118, T ID: 150906, Card: 7718 ||}
+304321169: {Store: 3036, T ID: 244415, Card: 8737 ||, Store: 3036, T ID: 244408, Card: 3050 ||, Store: 3036, T ID: 244518, Card: 9757 ||}
+304332809: {Store: 3274, T ID: 117683, Card: 5450 ||, Store: 3274, T ID: 283162, Card: 3053 ||, Store: 3274, T ID: 117685, Card: 7047 ||}
+294940170: {Store: 3448, T ID: 267357, Card: 0828 ||, Store: 3448, T ID: 267360, Card: 1681 ||, Store: 3448, T ID: 267352, Card: 6325 ||}
+296639028: {Store: 1165, T ID: 252129, Card: 6398 ||, Store: 1280, T ID: 402857, Card: 8769 ||, Store: 1165, T ID: 107056, Card: 8250 ||}
+304349749: {Store: 2388, T ID: 152736, Card: 1761 ||, Store: 2388, T ID: 152738, Card: 1316 ||, Store: 2388, T ID: 281512, Card: 7588 ||}
+302798473: {Store: 2788, T ID: 142737, Card: 7533 ||, Store: 2788, T ID: 222261, Card: 2255 ||, Store: 2788, T ID: 142742, Card: 5122 ||}
+304421242: {Store: 2260, T ID: 272428, Card: 0766 ||, Store: 2260, T ID: 272406, Card: 2134 ||, Store: 2260, T ID: 272444, Card: 0825 ||}
+304422787: {Store: 2785, T ID: 221033, Card: 1001 ||, Store: 2785, T ID: 442490, Card: 9579 ||, Store: 2785, T ID: 442488, Card: 3755 ||, Store: 2785, T ID: 442486, Card: 1782 ||, Store: 2785, T ID: 221036, Card: 7280 ||}
+299059977: {Store: 1497, T ID: 275592, Card: 2548 ||, Store: 1497, T ID: 275596, Card: 7249 ||, Store: 1988, T ID: 199036, Card: 3209 ||, Store: 1497, T ID: 275569, Card: 3716 ||, Store: 1497, T ID: 275587, Card: 5037 ||, Store: 1988, T ID: 199070, Card: 1058 ||}
+296611085: {Store: 3209, T ID: 230363, Card: 2548 ||, Store: 2698, T ID: 200227, Card: 6233 ||, Store: 2698, T ID: 200210, Card: 6883 ||}
+302753998: {Store: 2601, T ID: 196705, Card: 8294 ||, Store: 2601, T ID: 196708, Card: 1470 ||, Store: 3293, T ID: 142323, Card: 3825 ||}
+304439193: {Store: 812, T ID: 273601, Card: 6121 ||, Store: 812, T ID: 273496, Card: 6654 ||, Store: 812, T ID: 168973, Card: 6603 ||}
+304443924: {Store: 481, T ID: 158102, Card: 0857 ||, Store: 186, T ID: 150317, Card: 5496 ||, Store: 186, T ID: 150256, Card: 4467 ||}
+300037743: {Store: 3293, T ID: 209495, Card: 0738 ||, Store: 3293, T ID: 209475, Card: 7152 ||, Store: 3293, T ID: 209513, Card: 9291 ||}
+302903529: {Store: 2024, T ID: 237143, Card: 0151 ||, Store: 2024, T ID: 237028, Card: 1003 ||, Store: 2024, T ID: 237058, Card: 9305 ||, Store: 2024, T ID: 237145, Card: 7207 ||, Store: 2024, T ID: 237132, Card: 2825 ||}
+297609311: {Store: 110, T ID: 109136, Card: 5207 ||, Store: 110, T ID: 223142, Card: 5105 ||, Store: 110, T ID: 223072, Card: 5863 ||}
+298031794: {Store: 1482, T ID: 211955, Card: 2520 ||, Store: 1482, T ID: 211973, Card: 3022 ||, Store: 1482, T ID: 138476, Card: 9161 ||, Store: 1482, T ID: 211975, Card: 8302 ||}
+297265281: {Store: 1145, T ID: 219084, Card: 8148 ||, Store: 1145, T ID: 103706, Card: 3610 ||, Store: 1145, T ID: 219074, Card: 4434 ||}
+299787617: {Store: 1775, T ID: 296663, Card: 3903 ||, Store: 1775, T ID: 296671, Card: 6104 ||, Store: 1775, T ID: 154428, Card: 7612 ||, Store: 1775, T ID: 296659, Card: 8566 ||}
+297854852: {Store: 3352, T ID: 217015, Card: 0748 ||, Store: 3352, T ID: 217010, Card: 1212 ||, Store: 3352, T ID: 217021, Card: 8520 ||}
+296473684: {Store: 2274, T ID: 246934, Card: 5388 ||, Store: 2274, T ID: 246887, Card: 5148 ||, Store: 2274, T ID: 246961, Card: 0273 ||}
+300556242: {Store: 1607, T ID: 164760, Card: 9319 ||, Store: 1960, T ID: 131966, Card: 6655 ||, Store: 816, T ID: 120288, Card: 8306 ||}
+296602808: {Store: 3301, T ID: 209837, Card: 1153 ||, Store: 3301, T ID: 209829, Card: 0477 ||, Store: 3301, T ID: 209839, Card: 8979 ||}
+304579769: {Store: 1050, T ID: 265242, Card: 2743 ||, Store: 1050, T ID: 265167, Card: 7415 ||, Store: 1050, T ID: 265170, Card: 2311 ||}
+297928825: {Store: 3205, T ID: 111705, Card: 5167 ||, Store: 3205, T ID: 263015, Card: 5386 ||, Store: 3205, T ID: 262996, Card: 5005 ||, Store: 3205, T ID: 111708, Card: 4233 ||}
+304688659: {Store: 729, T ID: 296849, Card: 7079 ||, Store: 729, T ID: 296851, Card: 1278 ||, Store: 729, T ID: 153610, Card: 1002 ||}
+296002174: {Store: 3091, T ID: 277021, Card: 0484 ||, Store: 3091, T ID: 182698, Card: 9990 ||, Store: 3091, T ID: 277001, Card: 6381 ||}
+304816254: {Store: 2623, T ID: 166124, Card: 8029 ||, Store: 2623, T ID: 166048, Card: 8920 ||, Store: 2623, T ID: 166057, Card: 6956 ||, Store: 2623, T ID: 277451, Card: 0427 ||}
+304812516: {Store: 1017, T ID: 223426, Card: 6020 ||, Store: 1017, T ID: 223416, Card: 6598 ||, Store: 1017, T ID: 223408, Card: 1661 ||}
+299472185: {Store: 705, T ID: 266294, Card: 5761 ||, Store: 705, T ID: 266290, Card: 1764 ||, Store: 705, T ID: 266298, Card: 8366 ||}
+304827460: {Store: 1372, T ID: 195566, Card: 5826 ||, Store: 1262, T ID: 223535, Card: 7729 ||, Store: 1262, T ID: 319527, Card: 2516 ||}
+296119476: {Store: 1725, T ID: 101788, Card: 8991 ||, Store: 1725, T ID: 288990, Card: 8621 ||, Store: 1725, T ID: 288987, Card: 6683 ||}
+298433857: {Store: 2100, T ID: 278477, Card: 6601 ||, Store: 2100, T ID: 278483, Card: 6725 ||, Store: 2100, T ID: 278428, Card: 5985 ||}
